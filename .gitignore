@@ -1,0 +1,21 @@
+# Environments
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
